@@ -1,0 +1,6 @@
+#org.jbehave.core.embedder.StoryManager
+#Thu Aug 11 17:15:06 IST 2022
+stories\\login.storyConverted=3000
+threads=1
+total=3000
+threadAverage=3000
